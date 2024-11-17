@@ -13,5 +13,5 @@ Welcome to my profile!
 <img align="left" height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/white" />
 <img align="left" height="32" width="32" src="https://cdn.simpleicons.org/mysql/white" />
 <img align="left" height="32" width="32" src="https://cdn.simpleicons.org/flask/white" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/html5/white" />
-
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/html5/white" />
+<img align="left" height="32" width="32" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/matlab-11796920-9632931.png?f=webp&w=256" />
